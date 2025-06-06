@@ -1,0 +1,28 @@
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.exe
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.deps.json
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.runtimeconfig.json
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.dll
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.pdb
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.AssemblyInfoInputs.cache
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.AssemblyInfo.cs
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.dll
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\refint\TripleDESEncryptionApp.dll
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.pdb
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.genruntimeconfig.cache
+C:\Users\HIEN VINH\Downloads\TripleDESEncryptionApp\obj\Debug\net6.0-windows\ref\TripleDESEncryptionApp.dll
+D:\ATBMTT\1\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.exe
+D:\ATBMTT\1\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.deps.json
+D:\ATBMTT\1\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.runtimeconfig.json
+D:\ATBMTT\1\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.dll
+D:\ATBMTT\1\TripleDESEncryptionApp\bin\Debug\net6.0-windows\TripleDESEncryptionApp.pdb
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.AssemblyInfoInputs.cache
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.AssemblyInfo.cs
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.csproj.CoreCompileInputs.cache
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.dll
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\refint\TripleDESEncryptionApp.dll
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.pdb
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\TripleDESEncryptionApp.genruntimeconfig.cache
+D:\ATBMTT\1\TripleDESEncryptionApp\obj\Debug\net6.0-windows\ref\TripleDESEncryptionApp.dll
